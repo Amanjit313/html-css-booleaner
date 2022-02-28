@@ -17,6 +17,7 @@ body{
   height: 10rem;
   background-color: lightskyblue;
   background-image: url("./img/pattern.png");
+  position: relative;
 }
 
 #logo{
@@ -24,6 +25,8 @@ body{
   width: 15rem;
   height: 20rem;
   background-repeat: no-repeat;
+  position: absolute;
+  top: 5rem;
 }
 
 header h1{
