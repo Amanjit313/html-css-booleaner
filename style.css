@@ -61,4 +61,23 @@ header span{
 /* CSS Main - Foto - Tabella */
 table, th, td {
   border:1px solid black;
+}
 /* Fine CSS Main */
+
+/* Inizio CSS Footer */
+footer h4{
+  color: grey;
+}
+
+footer div{
+  position: relative;
+}
+
+footer p{
+  color: white;
+  position: absolute;
+  top: -20px;
+  left: 10px;
+  font-size: 25px;
+}
+/* Fine CSS Footer */
