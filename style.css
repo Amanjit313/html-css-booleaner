@@ -24,7 +24,6 @@ body{
   width: 15rem;
   height: 20rem;
   background-repeat: no-repeat;
-  
 }
 
 header h1{
@@ -50,3 +49,13 @@ header span{
 }
 /* Fine CSS Header */
 
+/* Inizio CSS Main */
+/* CSS Main - Foto */
+#descrizione{
+  font-size: .7rem;
+}
+
+/* CSS Main - Foto - Tabella */
+table, th, td {
+  border:1px solid black;
+/* Fine CSS Main */
